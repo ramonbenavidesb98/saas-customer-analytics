@@ -71,25 +71,25 @@ saas-analytics/
 ## Visualizations
 
 ### MRR Trend (Jan 2022 — Dec 2024)
-![MRR Trend](outputs/01_mrr_trend.png)
+![MRR Trend](01_mrr_trend.png)
 
 ### MRR Composition by Event Type
-![MRR Breakdown](outputs/02_mrr_breakdown.png)
+![MRR Breakdown](02_mrr_breakdown.png)
 
 ### Plan Performance: Churn Rate & Average MRR
-![Plan Analysis](outputs/03_plan_analysis.png)
+![Plan Analysis](03_plan_analysis.png)
 
 ### Cohort Retention Heatmap
-![Cohort Retention](outputs/04_cohort_retention.png)
+![Cohort Retention](04_cohort_retention.png)
 
 ### Acquisition Channel Performance
-![Channel Analysis](outputs/05_channel_analysis.png)
+![Channel Analysis](05_channel_analysis.png)
 
 ### Customer Segmentation
-![Segmentation](outputs/06_segmentation.png)
+![Segmentation](06_segmentation.png)
 
 ### Churn Prediction Model
-![Churn Model](outputs/07_churn_model.png)
+![Churn Model](07_churn_model.png)
 
 ---
 
